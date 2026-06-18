@@ -134,7 +134,7 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #4F5D95; 
-  width: 67.700%;
+  width: 67.699%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 12.398%;
@@ -179,7 +179,7 @@ div.ellipsis {
   width: 0.064%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.024%;
+  width: 0.026%;
 " class="progress-item"></span><span style="
   background-color: #C1F12E; 
   width: 0.008%;
@@ -449,7 +449,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Dockerfile</span>
-  <span class="percent">0.02%</span>
+  <span class="percent">0.03%</span>
 </li>
 <li style="animation-delay: 2550ms;">
   <svg 
